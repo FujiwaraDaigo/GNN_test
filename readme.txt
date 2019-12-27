@@ -1,4 +1,4 @@
-2019年度PFNインターンシップ選考にて実装したGNNのコードです．(問題参考：https://github.com/pfnet/intern-coding-tasks/tree/master/2019/machine_learning)
+2019年度PFNインターンシップ選考にて書いたGNNのフルスクラッチ実装です．(問題参考：https://github.com/pfnet/intern-coding-tasks/tree/master/2019/machine_learning)
 
 
 添付のEigenを同じ階層に置くかパスを指定し，includeしてください.
